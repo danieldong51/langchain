@@ -1,0 +1,8 @@
+# API keys
+.env
+
+# Dependency
+node_modules
+
+# Javascript files
+*.js
